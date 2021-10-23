@@ -1,0 +1,19 @@
+{
+  "name": "vm-1-node-server",
+  "version": "1.0.0",
+  "description": "vm-1 node server for CLI tool",
+  "scripts": {
+    "test": "jest",
+    "dev": "cross-env NODE_ENV=development nodemon ./server/server.js --watch ./server/server.js",
+    "build": "NEXT_TELEMETRY_DISABLED=1 express build",
+    "start": "cross-env NODE_ENV=production node ./server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlminvestments/node-js-server.git"
+  },
+  "author": "DLM VM-1 Cloud.",
+  "license": "Mozilla",
+  "bugs": {
+    "url": "https://github.com/dlminvestments/node-js-server"
+  },
