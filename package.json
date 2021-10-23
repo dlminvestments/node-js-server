@@ -28,7 +28,7 @@
     "@shopify/koa-shopify-auth": "^4.1.2",
     "@shopify/polaris": "^6.2.0",
     "apollo-boost": "^0.4.9",
-    “ansi_regrex": "^6.0.1",
+    “ansi": "^1.0.1",
     "basic-auth": "^2.0.0",
     "batch": "^0.6.0",
     "bootstrap": "^5.1.2",
