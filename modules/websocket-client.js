@@ -37,4 +37,4 @@ client.on('connect', function(connection) {
     sendNumber();
 });
 
-client.connect('ws://localhost:7777/', 'echo-protocol');
+client.connect('http://localhost:7777', 'echo-protocol');
