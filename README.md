@@ -1,7 +1,7 @@
 # node-js-server
 
 
-# **server.js** for Node.js
+# **server.js** for Node.js [![Npm package version](https://badgen.net/npm/v/express)](https://npmjs.com/package/express)
 
 Powerful server for Node.js with http proxy middleware support & websocket/client connections**:
 
