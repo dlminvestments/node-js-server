@@ -53,7 +53,7 @@ Execute this in the terminal to get the server started:
 node .
 ```
 
-And finally, open your browser on [localhost:7777](http://localhost:7777) and you should see 'Hello world!' on your browser.
+And finally, open your browser on [localhost:7777](http://localhost:7777) and you should see 'Hello world!' on your browser. you can also proxy external connections to [localhost:4444](http://localhost:4444)
 
 # **Socket.IO**    [Socket](https://socket.io)
 
