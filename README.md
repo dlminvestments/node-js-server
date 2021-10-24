@@ -55,6 +55,8 @@ node .
 
 And finally, open your browser on [localhost:7777](http://localhost:7777) and you should see 'Hello world!' on your browser. You can also proxy external connections to [localhost:4444](http://localhost:4444) port 4444 (proxy)   [localhost:8080](http://localhost:8080)(proxy-server)
 
+Wrapped with OpenSSL tookit for secured SSL and TCP connections
+
 # **Socket.IO**    [Socket](https://socket.io)
 
 ## Features
