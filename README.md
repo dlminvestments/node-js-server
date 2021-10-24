@@ -55,7 +55,7 @@ Execute this in the terminal to get the server started:
 node .
 ```
 
-And finally, open your browser on [localhost:3000](http://localhost:3000/) and you should see 'Hello world!' on your browser.
+And finally, open your browser on [localhost:2000](http://localhost:2000/) and you should see 'Hello world!' on your browser.
 
 
 
@@ -130,7 +130,7 @@ io.on('connection', () => { /* … */ });
 server.listen(3000);
 ```
 
-# vm2 [![NPM Version]
+# vm2
 
 vm2 is a sandbox that can run untrusted code with whitelisted Node's built-in modules. Securely!
 
