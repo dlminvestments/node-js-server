@@ -73,7 +73,7 @@
     "get-port": "5.1.1",
     "husky": "7.0.2",
     "jest": "27.2.4",
-    "lint-staged": "11.1.2",
+    "lint-staged": "11.2.0",
     "mockttp": "2.2.3",
     "open": "8.2.1",
     "prettier": "2.4.1",
