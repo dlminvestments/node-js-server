@@ -55,7 +55,15 @@
   "devDependencies": {
     "@types/mocha": "9.0.0",
     "expect.js": "0.3.1",
-    "mocha": "3.5.3",
+renovate/npm-growl-vulnerability
+    "mocha": "4.0.0",
+=======
+renovate/npm-diff-vulnerability
+    "mocha": "5.0.3",
+=======
+    "mocha": "9.1.3",
+main
+ main
     "nyc": "15.1.0",
     "prettier": "2.4.1",
     "rimraf": "3.0.2",
