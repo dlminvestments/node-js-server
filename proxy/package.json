@@ -35,8 +35,18 @@
   "devDependencies": {
     "@types/mocha": "9.0.0",
     "@types/node": "10.17.60",
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "4.33.0",
+=======
+    "@typescript-eslint/eslint-plugin": "1.13.0",
+    "@typescript-eslint/parser": "1.13.0",
+main
+=======
     "@typescript-eslint/eslint-plugin": "5.2.0",
     "@typescript-eslint/parser": "5.2.0",
+main
     "cpy-cli": "2.0.0",
     "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
