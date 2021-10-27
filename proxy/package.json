@@ -33,25 +33,45 @@
     "debug": "^4.1.1"
   },
   "devDependencies": {
-    "@types/mocha": "5.2.7",
+    "@types/mocha": "9.0.0",
     "@types/node": "10.17.60",
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "4.33.0",
+=======
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
+main
+=======
+    "@typescript-eslint/eslint-plugin": "5.2.0",
+    "@typescript-eslint/parser": "5.2.0",
+main
     "cpy-cli": "2.0.0",
-    "eslint": "5.16.0",
+    "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
-    "eslint-config-prettier": "4.1.0",
+    "eslint-config-prettier": "8.3.0",
     "eslint-import-resolver-typescript": "1.1.1",
+ snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
 snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
     "eslint-plugin-import": "2.16.0",
     "eslint-plugin-jsx-a11y": "6.4.1",
     "eslint-plugin-react": "7.12.4",
 =======
+snyk-upgrade-e9c86870cf88ece60c604410377809e2
+    "eslint-plugin-import": "2.24.2",
+ main
+=======
     "eslint-plugin-import": "2.25.2",
+main
     "eslint-plugin-jsx-a11y": "6.2.1",
     "eslint-plugin-react": "7.26.1",
+snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
 main
     "mocha": "6.2.3",
+=======
+    "mocha": "9.1.3",
+ main
     "pkg": "4.5.1",
     "rimraf": "3.0.2",
     "typescript": "3.9.10"
