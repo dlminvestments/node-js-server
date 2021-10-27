@@ -113,7 +113,7 @@
     "clean-css-cli": "5.4.2",
     "cross-env": "7.0.3",
     "cspell": "5.12.3",
-    "eslint": "8.0.1",
+    "eslint": "8.1.0",
     "eslint-config-xo": "0.39.0",
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-unicorn": "37.0.1",
@@ -144,7 +144,7 @@
     "rtlcss": "3.4.0",
     "sass": "1.43.3",
     "shelljs": "0.8.4",
-    "stylelint": "13.13.1",
+    "stylelint": "14.0.1",
     "stylelint-config-twbs-bootstrap": "2.2.4",
     "terser": "5.9.0",
     "vnu-jar": "21.10.12"
