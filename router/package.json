@@ -24,7 +24,11 @@ snyk-upgrade-4eb29549f0a808fab0a5949a03278fd5
     "eslint-plugin-markdown": "2.2.1",
 =======
     "eslint": "8.1.0",
+renovate/eslint-plugin-markdown-2.x
+    "eslint-plugin-markdown": "2.2.1",
+=======
     "eslint-plugin-markdown": "2.1.0",
+main
 main
     "finalhandler": "1.1.2",
     "mocha": "9.1.3",
