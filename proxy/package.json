@@ -54,6 +54,9 @@ snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
 =======
     "@typescript-eslint/eslint-plugin": "5.2.0",
     "@typescript-eslint/parser": "5.2.0",
+renovate/cpy-cli-3.x
+    "cpy-cli": "3.1.1",
+=======
 main
 main
     "cpy-cli": "2.0.0",
@@ -67,6 +70,7 @@ snyk-upgrade-693a8929e49b793216180f668f983e74
     "eslint-config-prettier": "4.1.0",
 main
 =======
+main
     "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.3.0",
