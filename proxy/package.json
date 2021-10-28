@@ -35,17 +35,26 @@
   "devDependencies": {
     "@types/mocha": "9.0.0",
     "@types/node": "10.17.60",
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+    "@typescript-eslint/eslint-plugin": "4.33.0",
+    "@typescript-eslint/parser": "1.1.0",
+=======
 snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
 snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
     "@typescript-eslint/eslint-plugin": "1.6.0",
     "@typescript-eslint/parser": "4.33.0",
+main
 =======
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
 main
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+=======
 =======
     "@typescript-eslint/eslint-plugin": "5.2.0",
     "@typescript-eslint/parser": "5.2.0",
+main
 main
     "cpy-cli": "2.0.0",
 snyk-upgrade-693a8929e49b793216180f668f983e74
@@ -61,7 +70,7 @@ main
     "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
     "eslint-config-prettier": "8.3.0",
->main
+main
     "eslint-import-resolver-typescript": "1.1.1",
  snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
 snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
