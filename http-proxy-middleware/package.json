@@ -64,7 +64,7 @@
     "@typescript-eslint/eslint-plugin": "5.2.0",
     "@typescript-eslint/parser": "5.2.0",
     "body-parser": "1.19.0",
-    "browser-sync": "2.27.5",
+    "browser-sync": "2.27.6",
     "connect": "3.7.0",
     "eslint": "8.1.0",
     "eslint-config-prettier": "8.3.0",
@@ -78,14 +78,14 @@
     "open": "8.4.0",
     "prettier": "2.4.1",
     "supertest": "6.1.6",
-    "ts-jest": "27.0.5",
+    "ts-jest": "27.0.7",
     "typescript": "4.4.3",
     "ws": "8.2.2"
   },
   "dependencies": {
     "@types/http-proxy": "^1.17.5",
     "http-proxy": "^1.18.1",
-    "is-glob": "^4.0.1",
+    "is-glob": "^4.0.3",
     "is-plain-obj": "^4.0.0",
     "micromatch": "^4.0.2"
   },
