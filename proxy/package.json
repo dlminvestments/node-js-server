@@ -87,8 +87,12 @@ snyk-upgrade-e9c86870cf88ece60c604410377809e2
  main
 =======
     "eslint-plugin-import": "2.25.2",
+renovate/eslint-plugin-jsx-a11y-6.x
+    "eslint-plugin-jsx-a11y": "6.4.1",
+=======
 main
     "eslint-plugin-jsx-a11y": "6.2.1",
+main
     "eslint-plugin-react": "7.26.1",
 snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
 main
