@@ -33,11 +33,44 @@
     "debug": "^4.1.1"
   },
   "devDependencies": {
-    "@types/mocha": "5.2.7",
+    "@types/mocha": "9.0.0",
     "@types/node": "10.17.60",
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+    "@typescript-eslint/eslint-plugin": "4.33.0",
+    "@typescript-eslint/parser": "1.1.0",
+=======
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+snyk-upgrade-320f6a5d868e978754a7f4e6a03b446c
+    "@typescript-eslint/eslint-plugin": "1.6.0",
+    "@typescript-eslint/parser": "4.33.0",
+main
+=======
     "@typescript-eslint/eslint-plugin": "1.13.0",
     "@typescript-eslint/parser": "1.13.0",
+main
+snyk-upgrade-0613d51e1394491b15a8587979fbbb5e
+=======
+=======
+    "@typescript-eslint/eslint-plugin": "5.2.0",
+    "@typescript-eslint/parser": "5.2.0",
+renovate/cpy-cli-3.x
+    "cpy-cli": "3.1.1",
+=======
+main
+main
     "cpy-cli": "2.0.0",
+snyk-upgrade-693a8929e49b793216180f668f983e74
+    "eslint": "5.16.0",
+snyk-upgrade-693a8929e49b793216180f668f983e74
+    "eslint-config-airbnb": "17.1.1",
+    "eslint-config-prettier": "8.3.0",
+=======
+    "eslint-config-airbnb": "18.2.1",
+    "eslint-config-prettier": "4.1.0",
+main
+=======
+main
     "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
 renovate/eslint-import-resolver-typescript-2.x
@@ -45,13 +78,41 @@ renovate/eslint-import-resolver-typescript-2.x
     "eslint-import-resolver-typescript": "2.5.0",
 =======
     "eslint-config-prettier": "8.3.0",
+main
     "eslint-import-resolver-typescript": "1.1.1",
+renovate/eslint-import-resolver-typescript-2.x
+main
+=======
+ snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
+snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
+    "eslint-plugin-import": "2.16.0",
+    "eslint-plugin-jsx-a11y": "6.4.1",
+    "eslint-plugin-react": "7.12.4",
+=======
+snyk-upgrade-e9c86870cf88ece60c604410377809e2
+    "eslint-plugin-import": "2.24.2",
+ main
+=======
 main
     "eslint-plugin-import": "2.25.2",
+renovate/eslint-plugin-jsx-a11y-6.x
+    "eslint-plugin-jsx-a11y": "6.4.1",
+=======
+main
     "eslint-plugin-jsx-a11y": "6.2.1",
+main
     "eslint-plugin-react": "7.26.1",
+snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
+main
     "mocha": "6.2.3",
+=======
+    "mocha": "9.1.3",
+renovate/pkg-5.x
+    "pkg": "5.4.0",
+=======
+ main
     "pkg": "4.5.1",
+main
     "rimraf": "3.0.2",
     "typescript": "3.9.10"
   },
