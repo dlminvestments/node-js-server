@@ -73,9 +73,16 @@ main
 main
     "eslint": "8.1.0",
     "eslint-config-airbnb": "18.2.1",
+renovate/eslint-import-resolver-typescript-2.x
+    "eslint-config-prettier": "4.3.0",
+    "eslint-import-resolver-typescript": "2.5.0",
+=======
     "eslint-config-prettier": "8.3.0",
 main
     "eslint-import-resolver-typescript": "1.1.1",
+renovate/eslint-import-resolver-typescript-2.x
+main
+=======
  snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
 snyk-upgrade-f7e76d92b56ead4ccf837079ed9d0876
     "eslint-plugin-import": "2.16.0",
@@ -86,6 +93,7 @@ snyk-upgrade-e9c86870cf88ece60c604410377809e2
     "eslint-plugin-import": "2.24.2",
  main
 =======
+main
     "eslint-plugin-import": "2.25.2",
 renovate/eslint-plugin-jsx-a11y-6.x
     "eslint-plugin-jsx-a11y": "6.4.1",
