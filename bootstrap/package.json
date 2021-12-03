@@ -112,8 +112,13 @@
     "bundlewatch": "0.3.2",
     "clean-css-cli": "5.4.2",
     "cross-env": "7.0.3",
+renovate/eslint-8.x
     "cspell": "5.12.6",
     "eslint": "8.3.0",
+=======
+    "cspell": "5.13.1",
+    "eslint": "8.2.0",
+main
     "eslint-config-xo": "0.39.0",
     "eslint-plugin-import": "2.25.3",
     "eslint-plugin-unicorn": "38.0.1",
@@ -139,10 +144,10 @@
     "npm-run-all": "4.1.5",
     "postcss": "8.4.4",
     "postcss-cli": "9.0.2",
-    "rollup": "2.60.1",
+    "rollup": "2.60.2",
     "rollup-plugin-istanbul": "3.0.0",
     "rtlcss": "3.5.0",
-    "sass": "1.43.5",
+    "sass": "1.44.0",
     "shelljs": "0.8.4",
     "stylelint": "14.1.0",
     "stylelint-config-twbs-bootstrap": "2.2.4",
