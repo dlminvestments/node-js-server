@@ -43,7 +43,7 @@
     "long": "4.0.0",
     "mkdirp": "0.5.5",
     "opn": "5.1.0",
-    "protobufjs": "6.8.9",
+    "protobufjs": "6.11.2",
     "requirejs": "2.3.6",
     "rimraf": "2.6.3",
     "rollup": "2.56.2",
