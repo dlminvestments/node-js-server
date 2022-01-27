@@ -42,7 +42,7 @@
     "karma-sourcemap-loader": "0.3.8",
     "long": "5.2.0",
     "mkdirp": "0.5.5",
-    "opn": "5.1.0",
+    "opn": "5.5.0",
     "protobufjs": "6.11.2",
     "requirejs": "2.3.6",
     "rimraf": "2.7.1",
