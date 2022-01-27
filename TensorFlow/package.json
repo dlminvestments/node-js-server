@@ -20,7 +20,7 @@
     "@types/offscreencanvas": "2019.3.0",
     "@types/seedrandom": "2.4.30",
     "@types/shelljs": "0.8.9",
-    "@types/webgl-ext": "0.0.30",
+    "@types/webgl-ext": "0.0.32",
     "@types/webgl2": "0.0.6",
     "ajv": "6.3.0",
     "argparse": "1.0.10",
