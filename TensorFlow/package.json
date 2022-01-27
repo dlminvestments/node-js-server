@@ -40,7 +40,7 @@
     "karma-jasmine": "1.1.2",
     "karma-requirejs": "1.1.0",
     "karma-sourcemap-loader": "0.3.8",
-    "long": "4.0.0",
+    "long": "5.2.0",
     "mkdirp": "0.5.5",
     "opn": "5.1.0",
     "protobufjs": "6.11.2",
