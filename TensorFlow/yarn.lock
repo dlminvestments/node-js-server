@@ -85,13 +85,6 @@
     source-map-support "0.5.9"
     tsutils "3.21.0"
 
-"@bazel/worker@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-4.4.6.tgz#c9122c8ec765f62dc723203270a3c913caf8826a"
-  integrity sha512-1Sk0FGIc1m9rFwXhCnm46XDRng88vAnY1FBb7OQPonha/kuxjZTpPDP7q2ndSkqDNyCFKp94cPUFUT58Fgqvfw==
-  dependencies:
-    google-protobuf "^3.6.1"
-
 "@bazel/worker@4.6.1":
   version "4.6.1"
   resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-4.6.1.tgz#96925f5819344225d4fe40ffa630a3c5f4847a0b"
@@ -325,10 +318,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-16.6.0.tgz#0d5685f85066f94e97f19e8a67fe003c5fadacc4"
   integrity sha512-OyiZPohMMjZEYqcVo/UJ04GyAxXOJEZO/FpzyXxcH4r/ArrVoXHf4MbUrkLp0Tz7/p1mMKpo5zJ6ZHl8XBNthQ==
 
-"@types/node@12.20.19":
-  version "12.20.19"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.19.tgz#538e61fc220f77ae4a4663c3d8c3cb391365c209"
-  integrity sha512-niAuZrwrjKck4+XhoCw6AAVQBENHftpXw9F4ryk66fTgYaKQ53R4FI7c9vUGGw5vQis1HKBHDR1gcYI/Bq1xvw==
+"@types/node@16.11.21":
+  version "16.11.21"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-16.11.21.tgz#474d7589a30afcf5291f59bd49cca9ad171ffde4"
+  integrity sha512-Pf8M1XD9i1ksZEcCP8vuSNwooJ/bZapNmIzpmsMaL+jMI+8mEYU3PKvs+xDNuQcJWF/x24WzY4qxLtB0zNow9A==
 
 "@types/node@^10.1.0":
   version "10.17.60"
