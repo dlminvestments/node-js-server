@@ -123,10 +123,10 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@octokit/rest@15.17.0":
-  version "15.17.0"
-  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-15.17.0.tgz#323a3f40f8ad8f271bd1354eaa3a50e7e5f62a90"
-  integrity sha512-tN16FJOGBPxt9QtPfl8yVbbuik3bQ7EI66zcX2XDh05Wcs8t+7mVEE3SWtCeK/Qm0RTLCeFQgGzuvkbD2J6cEg==
+"@octokit/rest@15.18.3":
+  version "15.18.3"
+  resolved "https://registry.yarnpkg.com/@octokit/rest/-/rest-15.18.3.tgz#ff4ecbb784ca286c40cc1d568abceda6d99b36fc"
+  integrity sha512-oHABAvvC83tPIuvUfWRaw9eLThFrCxBgywl+KvEwfTFjoCrMOfEaMh0r39+Ub/EEbV345GJiMzN+zPZ4kqOvbA==
   dependencies:
     before-after-hook "^1.1.0"
     btoa-lite "^1.0.0"
