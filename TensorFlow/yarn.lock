@@ -49,10 +49,10 @@
     source-map-support "0.5.9"
     tsutils "3.21.0"
 
-"@bazel/esbuild@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/esbuild/-/esbuild-4.4.6.tgz#20ae2b2b77ecf40e4a18f7e9627f3ca51e95784d"
-  integrity sha512-iI4GlfhZEzSWg1mqoYl6WfeDJ/xSkEb7V8XbVOtXrZ1NG35yU5eYDRlIODEhdVRu/QyAMdcCePDJfgHwAsYXLg==
+"@bazel/esbuild@4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@bazel/esbuild/-/esbuild-4.6.1.tgz#823178fc3959ce880c1c89d0b29be215137eb0fc"
+  integrity sha512-EkLQN+DnqCTz1jDKgLA8dKwJUaehznhy/+0qH8Vz3MG4Zy7ibV3qJsNPYBHOndRJMoxoxv3OMybFLnHfQsuPWQ==
 
 "@bazel/jasmine@4.4.6":
   version "4.4.6"

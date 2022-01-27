@@ -3,7 +3,7 @@
     "@bazel/bazelisk": "^1.11.0",
     "@bazel/buildifier": "4.2.4",
     "@bazel/concatjs": "4.4.6",
-    "@bazel/esbuild": "4.4.6",
+    "@bazel/esbuild": "4.6.1",
     "@bazel/jasmine": "4.4.6",
     "@bazel/rollup": "4.4.6",
     "@bazel/terser": "4.4.6",
