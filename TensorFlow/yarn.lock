@@ -613,10 +613,10 @@ chokidar@^3.5.1:
   optionalDependencies:
     fsevents "~2.3.2"
 
-clang-format@1.2.4:
-  version "1.2.4"
-  resolved "https://registry.yarnpkg.com/clang-format/-/clang-format-1.2.4.tgz#4bb4b0a98180428deb093cf20982e9fc1af20b6c"
-  integrity sha512-sw+nrGUp3hvmANd1qF8vZPuezSYQAiXgGBiEtkXTtJnnu6b00fCqkkDIsnRKrNgg4nv6NYZE92ejvOMIXZoejw==
+clang-format@1.6.0:
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/clang-format/-/clang-format-1.6.0.tgz#48fac4387712aeeae0f47b5d72f639f3fd95f4b6"
+  integrity sha512-W3/L7fWkA8DoLkz9UGjrRnNi+J5a5TuS2HDLqk6WsicpOzb66MBu4eY/EcXhicHriVnAXWQVyk5/VeHWY6w4ow==
   dependencies:
     async "^1.5.2"
     glob "^7.0.0"
