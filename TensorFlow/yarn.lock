@@ -74,12 +74,12 @@
   resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-4.4.6.tgz#7e1579078ab604a0b53135f43086c0a060c83804"
   integrity sha512-mJKxI3Vinj5kPEXR+XZXch11T18D7nHBle4+pcVmh675xlXRVTTvptYf7Qm0x9FMdjq4D6d1gJOeyxjz8YKaIg==
 
-"@bazel/typescript@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-4.4.6.tgz#fbaac22460b3aa4a0961c6c657d239af8f895778"
-  integrity sha512-J205En8MjmnWSPnz4CqJm1x4mzcdWM+HvAsOzzVb0DHx86O+mjPFwqleeAtPGLTE9aWskel81XICJfEuTlNtiw==
+"@bazel/typescript@4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@bazel/typescript/-/typescript-4.6.1.tgz#5c674698bda53006d784cb40ba1e2cb1263ecc20"
+  integrity sha512-T/2mOB9lSySaIQH47JsbKE8UG7eEChFltXCVNw2xk1+Eu7ym+osSIjaXoQVBPmAl/6qmIEzTyBIjFPEU2ohVrw==
   dependencies:
-    "@bazel/worker" "4.4.6"
+    "@bazel/worker" "4.6.1"
     protobufjs "6.8.8"
     semver "5.6.0"
     source-map-support "0.5.9"
