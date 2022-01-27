@@ -4,7 +4,7 @@
     "@bazel/buildifier": "4.2.5",
     "@bazel/concatjs": "4.4.6",
     "@bazel/esbuild": "4.6.1",
-    "@bazel/jasmine": "4.4.6",
+    "@bazel/jasmine": "4.6.1",
     "@bazel/rollup": "4.6.1",
     "@bazel/terser": "4.4.6",
     "@bazel/typescript": "4.6.1",
