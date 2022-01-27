@@ -69,10 +69,10 @@
   dependencies:
     "@bazel/worker" "4.6.1"
 
-"@bazel/terser@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-4.4.6.tgz#7e1579078ab604a0b53135f43086c0a060c83804"
-  integrity sha512-mJKxI3Vinj5kPEXR+XZXch11T18D7nHBle4+pcVmh675xlXRVTTvptYf7Qm0x9FMdjq4D6d1gJOeyxjz8YKaIg==
+"@bazel/terser@4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-4.6.1.tgz#a3f70672cef7b9383b42930691d6fc8be4b8d993"
+  integrity sha512-LOXNSLCscyiNDxhLEgIL+Unj7UQpH6s+IkujizRpEyMrVVrhun5do972ab4TdqCXi9rxQKBBkgj8EL43gMimwg==
 
 "@bazel/typescript@4.6.1":
   version "4.6.1"
@@ -84,13 +84,6 @@
     semver "5.6.0"
     source-map-support "0.5.9"
     tsutils "3.21.0"
-
-"@bazel/worker@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-4.4.6.tgz#c9122c8ec765f62dc723203270a3c913caf8826a"
-  integrity sha512-1Sk0FGIc1m9rFwXhCnm46XDRng88vAnY1FBb7OQPonha/kuxjZTpPDP7q2ndSkqDNyCFKp94cPUFUT58Fgqvfw==
-  dependencies:
-    google-protobuf "^3.6.1"
 
 "@bazel/worker@4.6.1":
   version "4.6.1"
