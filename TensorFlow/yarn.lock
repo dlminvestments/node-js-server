@@ -54,13 +54,13 @@
   resolved "https://registry.yarnpkg.com/@bazel/esbuild/-/esbuild-4.6.1.tgz#823178fc3959ce880c1c89d0b29be215137eb0fc"
   integrity sha512-EkLQN+DnqCTz1jDKgLA8dKwJUaehznhy/+0qH8Vz3MG4Zy7ibV3qJsNPYBHOndRJMoxoxv3OMybFLnHfQsuPWQ==
 
-"@bazel/jasmine@4.4.6":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@bazel/jasmine/-/jasmine-4.4.6.tgz#12d72d55c65b34bffeb1108f8081deaa9ef42ec2"
-  integrity sha512-9/oBxEIFImRa+j2YxTfgjsLB+4iz/3M2a7MUE1iKN07QwOVBmMoaP74WtJlNbw69SIxzyG8IdidXNL1sgtPPSA==
+"@bazel/jasmine@4.6.1":
+  version "4.6.1"
+  resolved "https://registry.yarnpkg.com/@bazel/jasmine/-/jasmine-4.6.1.tgz#f1b618d8190fe30db03e6613255704c92c90c8b7"
+  integrity sha512-SkzBYh4f4BALB6du3/g0Z3lu3N9jcH3kVQHxqwmKkBHCp9Nny0xzhhEje/o5ncSNt+SMwIPwBrTGMPQnUUfmfg==
   dependencies:
     c8 "~7.5.0"
-    jasmine-reporters "~2.4.0"
+    jasmine-reporters "~2.5.0"
 
 "@bazel/rollup@4.6.1":
   version "4.6.1"
@@ -372,6 +372,11 @@
   version "0.1.9"
   resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.9.tgz#4df7aa2112e9b9e77139e32736fe9cbab44e308c"
   integrity sha512-CGG93bZ4znugJ7KWdvWYGTemt7rUmdpzt1BOMCHI/5Kgt08tOtnn9sFmk4ZT26aGgwxBT5iC/djCxzbfxVdldA==
+
+"@xmldom/xmldom@^0.7.3":
+  version "0.7.5"
+  resolved "https://registry.yarnpkg.com/@xmldom/xmldom/-/xmldom-0.7.5.tgz#09fa51e356d07d0be200642b0e4f91d8e6dd408d"
+  integrity sha512-V3BIhmY36fXZ1OtVcI9W+FxQqxVLsPKcNjWigIaa81dLC9IolJl5Mt4Cvhmr0flUnjSpTdrbMTSbXqYqV5dT6A==
 
 accepts@~1.3.4:
   version "1.3.7"
@@ -1460,13 +1465,13 @@ jasmine-core@3.99.0, jasmine-core@~3.99.0:
   resolved "https://registry.yarnpkg.com/jasmine-core/-/jasmine-core-3.99.0.tgz#99a3da0d38ba2de82614d9198b7b1bc1c32a5960"
   integrity sha512-+ZDaJlEfRopINQqgE+hvzRyDIQDeKfqqTvF8RzXsvU1yE3pBDRud2+Qfh9WvGgRpuzqxyQJVI6Amy5XQ11r/3w==
 
-jasmine-reporters@~2.4.0:
-  version "2.4.0"
-  resolved "https://registry.yarnpkg.com/jasmine-reporters/-/jasmine-reporters-2.4.0.tgz#708c17ae70ba6671e3a930bb1b202aab80a31409"
-  integrity sha512-jxONSrBLN1vz/8zCx5YNWQSS8iyDAlXQ5yk1LuqITe4C6iXCDx5u6Q0jfNtkKhL4qLZPe69fL+AWvXFt9/x38w==
+jasmine-reporters@~2.5.0:
+  version "2.5.0"
+  resolved "https://registry.yarnpkg.com/jasmine-reporters/-/jasmine-reporters-2.5.0.tgz#f9e2e0f82aaa2e07e8d553be56457efe0fd8b39e"
+  integrity sha512-J69peyTR8j6SzvIPP6aO1Y00wwCqXuIvhwTYvE/di14roCf6X3wDZ4/cKGZ2fGgufjhP2FKjpgrUIKjwau4e/Q==
   dependencies:
-    mkdirp "^0.5.1"
-    xmldom "^0.5.0"
+    "@xmldom/xmldom" "^0.7.3"
+    mkdirp "^1.0.4"
 
 jasmine@3.99.0:
   version "3.99.0"
@@ -2703,11 +2708,6 @@ ws@~7.4.2:
   version "7.4.6"
   resolved "https://registry.yarnpkg.com/ws/-/ws-7.4.6.tgz#5654ca8ecdeee47c33a9a4bf6d28e2be2980377c"
   integrity sha512-YmhHDO4MzaDLB+M9ym/mDA5z0naX8j7SIlT8f8z+I0VtzsRbekxEutHSme7NPS2qE8StCYQNUnfWdXta/Yu85A==
-
-xmldom@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/xmldom/-/xmldom-0.5.0.tgz#193cb96b84aa3486127ea6272c4596354cb4962e"
-  integrity sha512-Foaj5FXVzgn7xFzsKeNIde9g6aFBxTPi37iwsno8QvApmtg7KYrr+OPyRHcJF7dud2a5nGRBXK3n0dL62Gf7PA==
 
 xtend@~4.0.1:
   version "4.0.2"
