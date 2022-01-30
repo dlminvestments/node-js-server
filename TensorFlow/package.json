@@ -29,7 +29,7 @@
     "console-table-printer": "2.10.0",
     "copyfiles": "1.2.0",
     "core-js": "3.16.1",
-    "deep-equal": "1.1.1",
+    "deep-equal": "2.0.5",
     "jasmine": "3.99.0",
     "jasmine-core": "3.99.0",
     "js-yaml": "3.14.1",
