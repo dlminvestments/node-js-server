@@ -16,7 +16,7 @@
     "@types/long": "4.0.1",
     "@types/mkdirp": "0.5.2",
     "@types/node": "16.11.21",
-    "@types/node-fetch": "2.5.12",
+    "@types/node-fetch": "3.0.2",
     "@types/offscreencanvas": "2019.6.4",
     "@types/seedrandom": "3.0.1",
     "@types/shelljs": "0.8.9",
@@ -82,6 +82,6 @@
   },
   "dependencies": {
     "@webgpu/types": "0.1.9",
-    "node-fetch": "2.6.7"
+    "node-fetch": "3.2.0"
   }
 }
