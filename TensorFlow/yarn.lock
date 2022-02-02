@@ -69,10 +69,10 @@
   dependencies:
     "@bazel/worker" "5.0.2"
 
-"@bazel/terser@5.0.1":
-  version "5.0.1"
-  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-5.0.1.tgz#5778d69fd588c5f47ae981c776e2a96867fa1509"
-  integrity sha512-b/RBdx2iVffxaEFqYjlaWQ0zkaG45pBZH4B5dbdOfHR/cxsICx6n3amIjziOjsIS/6PxXIgduxcTJkXh/TYchg==
+"@bazel/terser@5.1.0":
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-5.1.0.tgz#5c82b93f4d9def8103c16be2dd33900d156fa066"
+  integrity sha512-uE3hTqfkZr4nvlk3jwi0xx6URqqI7r6GGPtDAU02/PVei+O4PfThaov7cwHO+D1FnoLncDqChb9Iolr7Crw/8A==
 
 "@bazel/typescript@5.0.2":
   version "5.0.2"
@@ -439,7 +439,7 @@ arg@^4.1.0:
   resolved "https://registry.yarnpkg.com/arg/-/arg-4.1.3.tgz#269fc7ad5b8e42cb63c896d5666017261c144089"
   integrity sha512-58S9QDqG0Xx27YwPSt9fJxivjYl432YCwfDMfZ+71RAqUrZef7LrKQZ3LHLOwCS4FLNBplP533Zx895SeOCHvA==
 
-argparse@2.0.1:
+argparse@2.0.1, argparse@^2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
   integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
@@ -450,11 +450,6 @@ argparse@^1.0.7:
   integrity sha512-o5Roy6tNG4SL/FOkCAN6RzjiakZS25RLYFrcMttJqbdd8BWrnA+fGz57iN5Pb06pvBGvl5gQ0B48dJlslXvoTg==
   dependencies:
     sprintf-js "~1.0.2"
-
-argparse@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
-  integrity sha512-8+9WqebbFzpX9OR+Wa6O29asIogeRMzcGtAINdpMHHyAg10f05aSFVBbcEqGf/PXw1EjAZ+q2/bEBg3DvurK3Q==
 
 async@^1.5.2:
   version "1.5.2"
