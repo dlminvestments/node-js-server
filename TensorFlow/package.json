@@ -52,7 +52,7 @@
     "rollup-plugin-visualizer": "5.5.4",
     "seedrandom": "3.0.5",
     "shelljs": "0.8.5",
-    "terser": "5.7.1",
+    "terser": "5.10.0",
     "ts-morph": "13.0.3",
     "ts-node": "10.5.0",
     "tslint": "6.1.3",
