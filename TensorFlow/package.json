@@ -18,7 +18,7 @@
     "@types/node": "16.11.25",
     "@types/node-fetch": "3.0.2",
     "@types/offscreencanvas": "2019.6.4",
-    "@types/seedrandom": "3.0.1",
+    "@types/seedrandom": "3.0.2",
     "@types/shelljs": "0.8.11",
     "@types/webgl-ext": "0.0.32",
     "@types/webgl2": "0.0.6",
