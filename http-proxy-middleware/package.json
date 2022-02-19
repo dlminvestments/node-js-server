@@ -75,7 +75,7 @@
     "husky": "7.0.4",
     "jest": "27.4.7",
     "lint-staged": "12.3.4",
-    "mockttp": "2.5.1",
+    "mockttp": "2.6.0",
     "open": "8.4.0",
     "prettier": "2.5.1",
     "supertest": "6.2.2",
