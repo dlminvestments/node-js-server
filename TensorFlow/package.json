@@ -15,7 +15,7 @@
     "@types/jasmine": "3.10.3",
     "@types/long": "4.0.1",
     "@types/mkdirp": "1.0.2",
-    "@types/node": "16.11.25",
+    "@types/node": "16.11.26",
     "@types/node-fetch": "3.0.2",
     "@types/offscreencanvas": "2019.6.4",
     "@types/seedrandom": "3.0.2",
