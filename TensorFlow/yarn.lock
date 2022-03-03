@@ -69,10 +69,10 @@
   dependencies:
     "@bazel/worker" "5.1.0"
 
-"@bazel/terser@5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-5.1.0.tgz#5c82b93f4d9def8103c16be2dd33900d156fa066"
-  integrity sha512-uE3hTqfkZr4nvlk3jwi0xx6URqqI7r6GGPtDAU02/PVei+O4PfThaov7cwHO+D1FnoLncDqChb9Iolr7Crw/8A==
+"@bazel/terser@5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@bazel/terser/-/terser-5.2.0.tgz#7e98626cf5dfc3e41bd9d724c35eff4270261b1f"
+  integrity sha512-ett6c+T1tIXu4f4dy2ohYznaHlvH7tuQcFvdEltU4Fv6JfV/Lmo1QtAqBgq9D+05Jr3n/vqA+Fxk3Gc4h48Iog==
 
 "@bazel/typescript@5.1.0":
   version "5.1.0"
