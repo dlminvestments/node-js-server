@@ -2,7 +2,7 @@
   "devDependencies": {
     "@bazel/bazelisk": "1.11.0",
     "@bazel/buildifier": "5.0.1",
-    "@bazel/concatjs": "5.1.0",
+    "@bazel/concatjs": "5.2.0",
     "@bazel/esbuild": "5.1.0",
     "@bazel/jasmine": "5.1.0",
     "@bazel/rollup": "5.1.0",
