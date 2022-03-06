@@ -62,12 +62,12 @@
     c8 "~7.5.0"
     jasmine-reporters "~2.5.0"
 
-"@bazel/rollup@5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@bazel/rollup/-/rollup-5.1.0.tgz#dc858ddc93c9fdb9cc2e7982e632c939c646ebdc"
-  integrity sha512-wEiWdSyVbsycSirSYjR6FGfPGbRNI7sGNAYmrV0hIzYIi+KqXeTNcwKIRSE9PESP3mb0VWbZmHvXvmrWk6daPQ==
+"@bazel/rollup@5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@bazel/rollup/-/rollup-5.2.0.tgz#54ab0589601a1b7620f031adae24ee2e7b099af3"
+  integrity sha512-NzQDNMncsJjKCpBWtVyOxtyN7JzQJ1tjWyRM9WezgJT+/2FKDdIV2LWCBoOkPywe7A2x3OXyR4m93Za4X52QRQ==
   dependencies:
-    "@bazel/worker" "5.1.0"
+    "@bazel/worker" "5.2.0"
 
 "@bazel/terser@5.2.0":
   version "5.2.0"
@@ -89,6 +89,13 @@
   version "5.1.0"
   resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-5.1.0.tgz#6f1e0f3ef628e3449d424cacd341c9abd09a3735"
   integrity sha512-u3aU93UtHz3vL6ozezq0jnw83s1cNT4dAnW+vvB7M++YKFlB3CWzZFb0JRJbCp1b6DDe30ML0WOdd3nVYuylpw==
+  dependencies:
+    google-protobuf "^3.6.1"
+
+"@bazel/worker@5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-5.2.0.tgz#464726821f9d98b11c6536e2547d44459a321a61"
+  integrity sha512-C9ozvgRP2iug4e9XaVjfXSKmrUMyzsYhDN2/A+MqKl8qlAf5AlveNofCUBASHxJsYiBn3ATbPNUznGsjeMpVWg==
   dependencies:
     google-protobuf "^3.6.1"
 
