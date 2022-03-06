@@ -62,12 +62,12 @@
     c8 "~7.5.0"
     jasmine-reporters "~2.5.0"
 
-"@bazel/rollup@5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@bazel/rollup/-/rollup-5.1.0.tgz#dc858ddc93c9fdb9cc2e7982e632c939c646ebdc"
-  integrity sha512-wEiWdSyVbsycSirSYjR6FGfPGbRNI7sGNAYmrV0hIzYIi+KqXeTNcwKIRSE9PESP3mb0VWbZmHvXvmrWk6daPQ==
+"@bazel/rollup@5.2.0":
+  version "5.2.0"
+  resolved "https://registry.yarnpkg.com/@bazel/rollup/-/rollup-5.2.0.tgz#54ab0589601a1b7620f031adae24ee2e7b099af3"
+  integrity sha512-NzQDNMncsJjKCpBWtVyOxtyN7JzQJ1tjWyRM9WezgJT+/2FKDdIV2LWCBoOkPywe7A2x3OXyR4m93Za4X52QRQ==
   dependencies:
-    "@bazel/worker" "5.1.0"
+    "@bazel/worker" "5.2.0"
 
 "@bazel/terser@5.2.0":
   version "5.2.0"
