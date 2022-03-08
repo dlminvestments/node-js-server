@@ -85,13 +85,6 @@
     source-map-support "0.5.9"
     tsutils "3.21.0"
 
-"@bazel/worker@5.1.0":
-  version "5.1.0"
-  resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-5.1.0.tgz#6f1e0f3ef628e3449d424cacd341c9abd09a3735"
-  integrity sha512-u3aU93UtHz3vL6ozezq0jnw83s1cNT4dAnW+vvB7M++YKFlB3CWzZFb0JRJbCp1b6DDe30ML0WOdd3nVYuylpw==
-  dependencies:
-    google-protobuf "^3.6.1"
-
 "@bazel/worker@5.2.0":
   version "5.2.0"
   resolved "https://registry.yarnpkg.com/@bazel/worker/-/worker-5.2.0.tgz#464726821f9d98b11c6536e2547d44459a321a61"
@@ -726,10 +719,10 @@ call-bind@^1.0.0, call-bind@^1.0.2:
     function-bind "^1.1.1"
     get-intrinsic "^1.0.2"
 
-chalk@5.0.0:
-  version "5.0.0"
-  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.0.0.tgz#bd96c6bb8e02b96e08c0c3ee2a9d90e050c7b832"
-  integrity sha512-/duVOqst+luxCQRKEo4bNxinsOQtMP80ZYm7mMqzuh5PociNL0PvmHFvREJ9ueYL2TxlHjBcmLCdmocx9Vg+IQ==
+chalk@5.0.1:
+  version "5.0.1"
+  resolved "https://registry.yarnpkg.com/chalk/-/chalk-5.0.1.tgz#ca57d71e82bb534a296df63bbacc4a1c22b2a4b6"
+  integrity sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==
 
 chalk@^2.0.0, chalk@^2.3.0:
   version "2.4.2"
