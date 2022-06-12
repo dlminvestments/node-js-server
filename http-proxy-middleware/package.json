@@ -73,8 +73,13 @@
     "express": "4.18.1",
     "get-port": "6.1.2",
     "husky": "8.0.1",
+renovate/lint-staged-13.x
+    "jest": "28.1.0",
+    "lint-staged": "13.0.1",
+=======
     "jest": "28.1.1",
     "lint-staged": "13.0.0",
+main
     "mockttp": "3.1.0",
     "open": "8.4.0",
     "prettier": "2.6.2",
