@@ -13,7 +13,7 @@ const options = {
   },
   router: {
     // when request.headers.host == 'dev.localhost:3000',
-    // override target ' https://dlm-investments0.webnode.com' to 'http://localhost:7777'
+    // override target ' https://dlm-investments.bitrix24.site' to 'http://localhost:7777'
     'dev.localhost:3000': 'http://localhost:7777',
   },
 };
