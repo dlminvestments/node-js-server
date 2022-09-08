@@ -58,3 +58,4 @@ main
     "version": "node scripts/version-history.js && git add HISTORY.md"
   }
 }
+ 
