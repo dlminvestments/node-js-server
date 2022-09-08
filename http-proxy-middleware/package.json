@@ -69,7 +69,7 @@
     "connect": "3.7.0",
     "eslint": "8.17.0",
     "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-prettier": "4.2.1",
     "express": "4.18.1",
     "get-port": "6.1.2",
     "husky": "8.0.1",
