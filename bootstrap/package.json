@@ -112,7 +112,7 @@
     "bundlewatch": "0.3.2",
     "clean-css-cli": "5.5.0",
     "cross-env": "7.0.3",
-renovate/eslint-8.x
+
     "cspell": "5.12.6",
     "eslint": "8.3.0",
 
@@ -120,7 +120,7 @@ renovate/eslint-8.x
     "eslint": "8.2.0",
 
     "eslint-config-xo": "0.39.0",
-renovate/eslint-plugin-unicorn-39.x
+
     "eslint-plugin-import": "2.25.2",
     "eslint-plugin-unicorn": "39.0.0",
 
