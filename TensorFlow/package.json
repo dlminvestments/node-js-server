@@ -5,7 +5,7 @@
     "@bazel/concatjs": "5.5.4",
     "@bazel/esbuild": "5.5.4",
     "@bazel/jasmine": "5.5.4",
-    "@bazel/rollup": "5.2.0",
+    "@bazel/rollup": "5.5.4",
     "@bazel/terser": "5.5.4",
     "@bazel/typescript": "5.2.0",
     "@octokit/rest": "18.12.0",
