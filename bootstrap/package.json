@@ -110,7 +110,7 @@
     "@rollup/plugin-replace": "3.0.0",
     "autoprefixer": "10.4.8",
     "bundlewatch": "0.3.3",
-    "clean-css-cli": "5.5.0",
+    "clean-css-cli": "5.6.1",
     "cross-env": "7.0.3",
 
     "cspell": "6.7.0",
