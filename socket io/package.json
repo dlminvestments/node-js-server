@@ -48,15 +48,21 @@
     "accepts": "~1.3.4",
     "base64id": "~2.0.0",
     "debug": "~4.3.2",
+snyk-fix-56b36c00317eb8ca536ed12f439f9b99
+    "engine.io": "~6.1.1",
+    "socket.io-adapter": "~2.3.2",
+    "socket.io-parser": "~4.0.4"
+=======
     "engine.io": "~6.2.0",
     "socket.io-adapter": "~2.4.0",
     "socket.io-parser": "~4.2.0"
+ main
   },
   "devDependencies": {
     "@types/mocha": "9.1.1",
     "expect.js": "0.3.1",
 
-    "mocha": "4.0.0",
+    "mocha": "9.2.0",
 
 
     "mocha": "5.0.3",
@@ -72,7 +78,7 @@
     "superagent": "8.0.0",
     "supertest": "6.2.4",
     "ts-node": "10.9.1",
-    "tsd": "0.18.0",
+    "tsd": "0.24.1",
     "typescript": "4.8.3"
   },
   "contributors": [

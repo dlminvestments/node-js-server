@@ -101,14 +101,14 @@
   },
   "devDependencies": {
     "@babel/cli": "7.18.10",
-    "@babel/core": "7.19.0",
-    "@babel/preset-env": "7.19.0",
+    "@babel/core": "7.19.1",
+    "@babel/preset-env": "7.19.1",
     "@popperjs/core": "2.11.6",
     "@rollup/plugin-babel": "5.3.1",
-    "@rollup/plugin-commonjs": "21.1.0",
+    "@rollup/plugin-commonjs": "22.0.2",
     "@rollup/plugin-node-resolve": "13.3.0",
     "@rollup/plugin-replace": "3.1.0",
-    "autoprefixer": "10.4.9",
+    "autoprefixer": "10.4.11",
     "bundlewatch": "0.3.3",
     "clean-css-cli": "5.6.1",
     "cross-env": "7.0.3",
@@ -116,25 +116,36 @@
     "cspell": "6.7.0",
     "eslint": "8.3.0",
 
-    "cspell": "5.13.1",
+    "cspell": "5.21.2",
     "eslint": "8.23.1",
 
-    "eslint-config-xo": "0.39.0",
+    "eslint-config-xo": "0.42.0",
 
     "eslint-plugin-import": "2.25.2",
-    "eslint-plugin-unicorn": "39.0.0",
+    "eslint-plugin-unicorn": "43.0.2",
 
-    "eslint-plugin-import": "2.25.3",
+    "eslint-plugin-import": "2.26.0",
     "eslint-plugin-unicorn": "38.0.1",
 
-    "find-unused-sass-variables": "3.1.0",
+    "find-unused-sass-variables": "4.0.4",
     "glob": "7.2.3",
+snyk-upgrade-65725a63a3801b884e6ad1088fb8b79b
     "globby": "13.1.2",
+=======
+    "globby": "12.2.0",
+main
     "hammer-simulator": "0.0.1",
+snyk-fix-20ce097ca4f1364d87ff26b0d7dc3238
     "hugo-bin": "0.78.1",
+    "ip": "1.1.5",
+    "jquery": "3.6.0",
+    "karma": "6.3.16",
+=======
+    "hugo-bin": "0.91.1",
     "ip": "1.1.8",
     "jquery": "3.6.1",
-    "karma": "6.3.16",
+    "karma": "6.4.0",
+main
     "karma-browserstack-launcher": "1.6.0",
     "karma-chrome-launcher": "3.1.0",
     "karma-coverage-istanbul-reporter": "3.0.3",
@@ -142,21 +153,36 @@
     "karma-firefox-launcher": "2.1.2",
     "karma-jasmine": "4.0.2",
     "karma-jasmine-html-reporter": "1.7.0",
+snyk-fix-20ce097ca4f1364d87ff26b0d7dc3238
+    "karma-rollup-preprocessor": "7.0.7",
+    "linkinator": "4.0.0",
+    "lockfile-lint": "4.6.2",
+    "nodemon": "2.0.17",
+=======
     "karma-rollup-preprocessor": "7.0.8",
     "linkinator": "4.0.3",
-    "lockfile-lint": "4.6.2",
-    "nodemon": "2.0.19",
+    "lockfile-lint": "4.8.0",
+    "nodemon": "2.0.20",
+main
     "npm-run-all": "4.1.5",
     "postcss": "8.4.16",
     "postcss-cli": "9.1.0",
-    "rollup": "2.78.1",
+    "rollup": "2.79.0",
     "rollup-plugin-istanbul": "3.0.0",
     "rtlcss": "3.5.0",
+snyk-fix-20ce097ca4f1364d87ff26b0d7dc3238
     "sass": "1.45.0",
     "shelljs": "0.8.5",
     "stylelint": "14.1.0",
-    "stylelint-config-twbs-bootstrap": "2.2.4",
+    "stylelint-config-twbs-bootstrap": "5.0.0",
     "terser": "5.14.2",
+=======
+    "sass": "1.54.9",
+    "shelljs": "0.8.5",
+    "stylelint": "14.12.0",
+    "stylelint-config-twbs-bootstrap": "2.2.4",
+    "terser": "5.15.0",
+main
     "vnu-jar": "21.10.12"
   },
   "files": [
