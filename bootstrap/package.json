@@ -170,7 +170,7 @@ snyk-fix-20ce097ca4f1364d87ff26b0d7dc3238
     "sass": "1.45.0",
     "shelljs": "0.8.5",
     "stylelint": "14.1.0",
-    "stylelint-config-twbs-bootstrap": "2.2.4",
+    "stylelint-config-twbs-bootstrap": "5.0.0",
     "terser": "5.14.2",
 =======
     "sass": "1.54.9",
