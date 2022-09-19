@@ -129,7 +129,11 @@
 
     "find-unused-sass-variables": "4.0.4",
     "glob": "7.2.3",
+snyk-upgrade-65725a63a3801b884e6ad1088fb8b79b
+    "globby": "13.1.2",
+=======
     "globby": "12.2.0",
+main
     "hammer-simulator": "0.0.1",
 snyk-fix-20ce097ca4f1364d87ff26b0d7dc3238
     "hugo-bin": "0.78.1",
