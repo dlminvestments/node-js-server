@@ -98,7 +98,7 @@
     "pkg": "4.5.1",
 
     "rimraf": "3.0.2",
-    "typescript": "3.9.10"
+    "typescript": "4.8.2"
   },
   "pkg": {
     "targets": [
