@@ -33,8 +33,13 @@
     "debug": "^4.1.1"
   },
   "devDependencies": {
+snyk-upgrade-b6c47f0005ccaa07d8d305aaf9009498
+    "@types/mocha": "9.0.0",
+    "@types/node": "18.7.14",
+
     "@types/mocha": "9.1.1",
     "@types/node": "16.11.60",
+
 
 
     "@typescript-eslint/eslint-plugin": "4.33.0",
