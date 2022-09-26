@@ -128,7 +128,7 @@
     "eslint-plugin-unicorn": "43.0.2",
 
     "find-unused-sass-variables": "4.0.4",
-    "glob": "7.2.3",
+    "glob": "8.0.3",
 
     "globby": "13.1.2",
 
