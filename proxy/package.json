@@ -33,7 +33,6 @@
     "debug": "^4.1.1"
   },
   "devDependencies": {
-snyk-upgrade-b6c47f0005ccaa07d8d305aaf9009498
     "@types/mocha": "9.0.0",
     "@types/node": "18.7.14",
 
