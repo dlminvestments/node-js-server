@@ -59,7 +59,7 @@
 
     "cpy-cli": "4.2.0",
 
-    "eslint": "5.16.0",
+    "eslint": "8.23.0",
 
     "eslint-config-airbnb": "17.1.1",
     "eslint-config-prettier": "8.3.0",
