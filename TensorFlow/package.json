@@ -6,7 +6,7 @@
     "@bazel/esbuild": "5.6.0",
     "@bazel/jasmine": "5.7.0",
     "@bazel/rollup": "5.6.0",
-    "@bazel/terser": "5.5.4",
+    "@bazel/terser": "5.7.0",
     "@bazel/typescript": "5.6.0",
     "@octokit/rest": "19.0.4",
     "@rollup/plugin-commonjs": "22.0.2",
