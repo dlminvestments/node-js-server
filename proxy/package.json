@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@types/mocha": "9.0.0",
-    "@types/node": "18.7.15",
+    "@types/node": "18.7.18",
 
     "@types/mocha": "9.1.1",
     "@types/node": "16.11.63",
