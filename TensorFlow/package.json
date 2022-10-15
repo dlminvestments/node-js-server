@@ -19,7 +19,7 @@
 
     "@types/long": "4.0.2",
     "@types/mkdirp": "1.0.2",
-    "@types/node": "16.11.63",
+    "@types/node": "16.11.65",
     "@types/node-fetch": "3.0.2",
     "@types/offscreencanvas": "2019.7.0",
     "@types/seedrandom": "3.0.2",
