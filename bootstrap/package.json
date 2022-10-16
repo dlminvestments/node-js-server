@@ -110,8 +110,12 @@ renovate/rollup-plugin-commonjs-23.x
 =======
     "@rollup/plugin-babel": "6.0.0",
     "@rollup/plugin-commonjs": "22.0.2",
+renovate/rollup-plugin-node-resolve-15.x
+    "@rollup/plugin-node-resolve": "15.0.0",
+=======
 main
     "@rollup/plugin-node-resolve": "14.1.0",
+main
     "@rollup/plugin-replace": "4.0.0",
     "autoprefixer": "10.4.12",
     "bundlewatch": "0.3.3",
