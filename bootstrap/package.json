@@ -115,8 +115,12 @@ renovate/rollup-plugin-node-resolve-15.x
 =======
 main
     "@rollup/plugin-node-resolve": "14.1.0",
+renovate/rollup-plugin-replace-5.x
+    "@rollup/plugin-replace": "5.0.0",
+=======
 main
     "@rollup/plugin-replace": "4.0.0",
+main
     "autoprefixer": "10.4.12",
     "bundlewatch": "0.3.3",
     "clean-css-cli": "5.6.1",
