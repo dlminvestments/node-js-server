@@ -1,0 +1,26 @@
+{
+  "name": "nodejs-docs-samples-containerengine",
+  "description": "Node.js Google Container Engine sample.",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Google Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dlminvestments/node-js-server"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "system-test": "mocha --exit test/*.test.js",
+    "test": "npm run system-test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "^10.1.0",
+    "mocha": "^9.1.2",
+    "supertest": "^6.0.0"
+  }
+}

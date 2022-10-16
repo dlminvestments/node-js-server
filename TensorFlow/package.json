@@ -9,8 +9,13 @@
     "@bazel/terser": "5.7.0",
     "@bazel/typescript": "5.7.0",
     "@octokit/rest": "19.0.5",
+renovate/rollup-plugin-node-resolve-15.x
     "@rollup/plugin-commonjs": "22.0.2",
+    "@rollup/plugin-node-resolve": "15.0.0",
+=======
+    "@rollup/plugin-commonjs": "23.0.0",
     "@rollup/plugin-node-resolve": "14.1.0",
+main
     "@types/argparse": "2.0.10",
 
     "@types/jasmine": "4.0.0",

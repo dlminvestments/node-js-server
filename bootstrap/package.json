@@ -104,10 +104,23 @@
     "@babel/core": "7.19.3",
     "@babel/preset-env": "7.19.4",
     "@popperjs/core": "2.11.6",
+renovate/rollup-plugin-commonjs-23.x
     "@rollup/plugin-babel": "5.3.1",
+    "@rollup/plugin-commonjs": "23.0.0",
+=======
+    "@rollup/plugin-babel": "6.0.0",
     "@rollup/plugin-commonjs": "22.0.2",
+renovate/rollup-plugin-node-resolve-15.x
+    "@rollup/plugin-node-resolve": "15.0.0",
+=======
+main
     "@rollup/plugin-node-resolve": "14.1.0",
+renovate/rollup-plugin-replace-5.x
     "@rollup/plugin-replace": "5.0.0",
+=======
+main
+    "@rollup/plugin-replace": "4.0.0",
+main
     "autoprefixer": "10.4.12",
     "bundlewatch": "0.3.3",
     "clean-css-cli": "5.6.1",
