@@ -56,6 +56,6 @@
     "mocha": "10.1.0",
     "nyc": "15.1.0",
     "prettier": "2.7.1",
-    "utf-8-validate": "5.0.9"
+    "utf-8-validate": "5.0.10"
   }
 }
