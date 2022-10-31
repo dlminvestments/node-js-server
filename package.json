@@ -6,7 +6,7 @@
     "@opentelemetry/sdk-node": "^0.33.0",
     "@socket.io/admin-ui": "^0.2.0",
     "@socket.io/cluster-adapter": "^0.1.0",
-    "@socket.io/postgres-adapter": "^0.1.1",
+    "@socket.io/postgres-adapter": "^0.3.0",
     "@tensorflow/tfjs": "^4.0.0",
     "@tensorflow/tfjs-node-gpu": "^4.0.0",
     "ansi-regex": "^6.0.1",
