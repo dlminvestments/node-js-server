@@ -34,7 +34,11 @@
     "mocha": "10.1.0",
     "nyc": "15.1.0",
     "safe-buffer": "5.2.1",
+
+    "supertest": "6.3.0"
+
     "supertest": "6.3.1"
+
   },
   "files": [
     "lib/",
