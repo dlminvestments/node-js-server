@@ -29,7 +29,7 @@
     "ip": "^1.1.5",
     "lodash": "^4.17.21",
     "node-sass": "^7.0.0",
-    "normalize-url": "^6.0.1",
+    "normalize-url": "^7.0.0",
     "pg": "^8.7.1",
     "proxy": "^1.0.2",
     "proxy-agent": "^5.0.0",
