@@ -37,7 +37,7 @@
   },
   "peerDependencies": {
     "bufferutil": "^4.0.1",
-    "utf-8-validate": "^5.0.2"
+    "utf-8-validate": "^5.0.2 || ^6.0.0"
   },
   "peerDependenciesMeta": {
     "bufferutil": {
@@ -56,6 +56,6 @@
     "mocha": "10.2.0",
     "nyc": "15.1.0",
     "prettier": "2.8.1",
-    "utf-8-validate": "5.0.10"
+    "utf-8-validate": "6.0.0"
   }
 }
