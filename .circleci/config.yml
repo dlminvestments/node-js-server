@@ -40,3 +40,13 @@ orbs:
     steps:
       - run: uname -a
       - run: echo "Hello, Arm!"
+
+  
+  build:
+    machine:
+      image: ubuntu-2004:202010-01
+    steps:
+      - checkout
+      - run:
+          name: "Testing"
+          command: echo "Hi"
