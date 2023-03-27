@@ -80,7 +80,7 @@
     "lint-staged": "13.2.0",
 
     "mockttp": "3.7.0",
-    "open": "8.4.2",
+    "open": "9.1.0",
     "prettier": "2.8.7",
     "supertest": "6.3.3",
     "ts-jest": "29.0.5",
