@@ -102,7 +102,7 @@
     "pkg": "5.8.1",
 
     "rimraf": "4.4.1",
-    "typescript": "5.0.3"
+    "typescript": "5.0.4"
   },
   "pkg": {
     "targets": [
