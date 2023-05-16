@@ -41,7 +41,7 @@
   "devDependencies": {
     "@types/agent-base": "4.2.2",
     "mocha": "10.2.0",
-    "proxy": "1.0.2",
+    "proxy": "2.1.0",
     "socksv5": "0.0.6",
     "stream-to-buffer": "0.1.0"
   }
