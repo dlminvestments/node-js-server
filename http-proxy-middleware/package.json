@@ -59,7 +59,7 @@
     "@types/is-glob": "4.0.2",
     "@types/jest": "29.5.3",
     "@types/micromatch": "4.0.2",
-    "@types/node": "18.16.19",
+    "@types/node": "18.16.20",
     "@types/supertest": "2.0.12",
     "@types/ws": "8.5.5",
     "@typescript-eslint/eslint-plugin": "5.62.0",
