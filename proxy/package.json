@@ -75,7 +75,7 @@
 
     "eslint-config-prettier": "8.10.0",
 
-    "eslint-import-resolver-typescript": "3.5.5",
+    "eslint-import-resolver-typescript": "3.6.0",
 
 
 
