@@ -54,7 +54,7 @@ orbs:
 
   build-and-test:
     docker:
-      - image: cimg/node:20.5
+      - image: cimg/node:20.6
         auth:
           username: mydockerhub-user
           password: $DOCKERHUB_PASSWORD  # context / project UI env-var reference
