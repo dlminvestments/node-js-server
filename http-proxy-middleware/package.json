@@ -85,7 +85,7 @@
     "supertest": "6.3.3",
     "ts-jest": "29.1.1",
     "typescript": "5.2.2",
-    "ws": "8.14.0"
+    "ws": "8.14.1"
   },
   "dependencies": {
     "@types/http-proxy": "^1.17.8",
