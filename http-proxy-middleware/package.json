@@ -53,7 +53,7 @@
   },
   "homepage": "https://github.com/chimurai/http-proxy-middleware#readme",
   "devDependencies": {
-    "@commitlint/cli": "17.7.1",
+    "@commitlint/cli": "17.7.2",
     "@commitlint/config-conventional": "17.7.0",
     "@types/express": "4.17.18",
     "@types/is-glob": "4.0.2",
