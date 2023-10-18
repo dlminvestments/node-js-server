@@ -39,7 +39,7 @@
     "socks-proxy-agent": "^8.0.0"
   },
   "devDependencies": {
-    "@types/agent-base": "4.2.3",
+    "@types/agent-base": "4.2.4",
     "mocha": "10.2.0",
     "proxy": "2.1.1",
     "socksv5": "0.0.6",
