@@ -26,7 +26,7 @@ workflows:
       - say-hello
 
 orbs:
-  node: circleci/node@5.1.1
+  node: circleci/node@5.2.0
   workflows:
     example-workflow:
       jobs:
