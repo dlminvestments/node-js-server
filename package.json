@@ -52,7 +52,7 @@
     "artillery-engine-socketio-v3": "^1.1.2",
     "http-proxy-middleware": "^3.0.0",
     "karma-jasmine-html-reporter": "^2.0.0",
-    "supertest": "^6.1.6"
+    "supertest": "^7.0.0"
   }
 }
 
