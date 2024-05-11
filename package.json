@@ -40,7 +40,7 @@
     "server": "^1.0.36",
     "socket.io": "^4.3.1",
     "socket.io-client": "^4.0.0",
-    "superagent": "^8.0.0",
+    "superagent": "^9.0.0",
     "trim-newlines": "^5.0.0",
     "vm2": "^3.9.5",
     "websocket": "^1.0.34"
