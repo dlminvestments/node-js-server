@@ -92,7 +92,7 @@
     "http-proxy": "^1.18.1",
     "is-glob": "^4.0.1",
     "is-plain-obj": "^4.0.0",
-    "micromatch": "^4.0.2"
+    "micromatch": "^4.0.8"
   },
   "peerDependencies": {
     "@types/express": "^4.17.13"
