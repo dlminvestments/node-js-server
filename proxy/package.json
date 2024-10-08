@@ -36,7 +36,7 @@
     "@types/mocha": "9.0.0",
     "@types/node": "20.5.4",
 
-    "@types/mocha": "10.0.7",
+    "@types/mocha": "10.0.9",
     "@types/node": "20.14.10",
 
 
@@ -95,7 +95,7 @@
 
     "mocha": "10.6.0",
 
-    "mocha": "10.6.0",
+    "mocha": "10.7.3",
 
     "pkg": "5.8.1",
 
